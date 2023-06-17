@@ -51,6 +51,21 @@
   </a>
 </p>
 
+<p align="center">
+  <b>Tools</b>
+  <br>
+  <br>
+  <a href="https://git-scm.com/" target="_blank">
+    <code><img src="./images/git.png" alt="Git" height="40"/></code>
+  </a>
+  <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank">
+    <code><img src="./images/aws.png" alt="AWS" height="40"/></code>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <code><img src="./images/bash_logo.png" alt="Bash" height="40"/></code>
+  </a>
+</p>
+
 <h2>My activity <img src="./images/gifs-de-graficos-0.gif" height="30px"></h2>
 <details> 
   <summary><b>💻 Github stats 💻</b></summary>
@@ -63,3 +78,13 @@
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
+
+<h2> 🌐 Social Medias:  <img src="./images/handshake.gif" height="35px"></h2>
+<p align="center">
+  <a href="https://www.instagram.com/vt_vasconcellos/" target="_blank">
+    <code><img src="./images/instagram.svg" alt="vt_vasconcellos" height="30" width="40"/></code>
+  </a>
+  <a href="https://www.linkedin.com/in/VictorVasconcellos42/" target="_blank">
+    <code><img src="./images/linkedin.svg" alt="Victor Vasconcellos" height="30" width="40"/></code>
+  </a>
+</p>
