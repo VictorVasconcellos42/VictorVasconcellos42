@@ -78,6 +78,11 @@
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
+<details>
+	<summary><b> Commits</b></summary>
+<br>
+	<img alt="snake-commit" src="https://github.com/VictorVasconcellos42/VictorVasconcellos42/blob/output/github-contribution-grid-snake.svg" />
+</details>
 
 <h2> 🌐 Social Medias:  <img src="./images/handshake.gif" height="35px"></h2>
 <p align="center">
