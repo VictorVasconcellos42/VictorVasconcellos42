@@ -51,14 +51,14 @@
   </a>
 </p>
 
-<h2>My activity <img src="./images/stats2.gif" height="40px"></h2>
+<h2>My activity <img src="./images/gifs-de-graficos-0.gif" height="30px"></h2>
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 Github stats 💻</b></summary>
   <br>
   <p align="center">
-    <img alt="Mosted used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVasconcellos42&layout=compact&theme=dark" height="192px"/>
+    <img alt="Mosted used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVasconcellos42&layout=compact&theme=midnight-purple" height="192px"/>
     <br>
-	  <img src="https://github-readme-stats.vercel.app/api?username=VictorVasconcellos42&show_icons=true&icon_color=ffffff&theme=dark" alt="oHTGo's Github Stats" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api?username=VictorVasconcellos42&show_icons=true&icon_color=ffffff&theme=midnight-purple" alt="oHTGo's Github Stats" height="192px"/>
     <br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
