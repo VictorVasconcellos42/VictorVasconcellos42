@@ -25,8 +25,14 @@
   <a href="https://nestjs.com" target="_blank">
     <code><img src="./images/nest.svg" alt="NestJS" height="40"/></code>
   </a>
+  <a href="https://docs.djangoproject.com/en/5.0/" target="_blank">
+    <code><img src="./images/django.svg" alt="Django" height="40"/></code>
+  </a>
   <a href="https://nodejs.org" target="_blank">
     <code><img src="./images/node.svg" alt="NodeJS" height="40"/></code>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <code><img src="./images/spring.svg" alt="spring" height="40"/></code>
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <code><img src="./images/postgres.svg" alt="postgresSQL" height="40"/></code>
@@ -39,6 +45,9 @@
   <br>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <code><img src="./images/c.svg" alt="C" height="40"/></code>
+  </a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+    <code><img src="./images/javacolors.svg" alt="java" height="40"/></code>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <code><img src="./images/javascript.svg" alt="JavaScript" height="40"/></code>
